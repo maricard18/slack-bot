@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]()
 
 
 # Happy Birthday Slack Bot
@@ -9,7 +9,7 @@ This project is about developing a `slackbot`. The objective of this bot is to r
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/maricard18/happy_birthday_bot/blob/main/extras/Screenshot%202023-05-23%20at%2000.21.35.jpg)
 
 
 ## Features
