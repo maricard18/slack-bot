@@ -4,7 +4,7 @@
 
 # Happy Birthday Slack Bot
 
-This project is about developing a `slackbot`. The objective of this bot is to run trough the data base and check if it's anyone birthday. If it's the case the bot will send a creative message using `openAI` and tagged them in the chat.
+This project is about developing a `slackbot`. The objective of this bot is to run trough the data base and check if it's anyone birthday. If it's the case, the bot will send a creative message using `openAI` and tagged them in the chat.
 
 
 ## Screenshots
