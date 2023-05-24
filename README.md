@@ -9,7 +9,7 @@ This project is about developing a `slackbot`. The objective of this bot is to r
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/maricard18/happy_birthday_bot/blob/main/extras/photo.jpg)
 
 
 ## Features
