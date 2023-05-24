@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/maricard18/happy_birthday_bot/blob/main/extras/logo.png)
+![Logo]()
 
 
 # Happy Birthday Slack Bot
