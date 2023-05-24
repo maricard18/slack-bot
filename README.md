@@ -14,12 +14,16 @@ This project is about developing a `slackbot`. The objective of this bot is to r
 
 ## Features
 
-- use of AI technology
+- use of [openAI](https://openai.com)
 - universal use
 - comunity improvement bot
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at mariojunior200218@gmail.com
+If you have any feedback, please feel free to contact me at -> mariojunior200218@gmail.com
 
+---
+
+> GitHub [@maricard18](https://github.com/maricard18) &nbsp;&middot;&nbsp;
+> Linkedin [Mario Henriques](https://www.linkedin.com/in/mario18)
