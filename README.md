@@ -1,11 +1,13 @@
-
+<p align="center">
+     <img src="https://github.com/maricard18/slack_bot/blob/main/extras/slackBot.mp4"/>
+</p>
 
 # Happy Birthday Slack Bot
 
 This project is about developing a `slackbot` for slack. <br>
 The objective of this bot is to run trough the data base and check if it's anyone birthday. <br>
 If that is the case, the bot will send a creative message using `openAI` and tagged them in the chat. <br>
-It's a fun tool to gather even more of the community.
+It's a fun tool to gather even more of the community and learn more about bots.
 
 
 ## Screenshots
