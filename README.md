@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://github.com/maricard18/slack_bot/blob/main/extras/slackBot.mp4"/>
+     <img src="https://github.com/maricard18/slack_bot/blob/main/extras/slackBot.gif"/>
 </p>
 
 # Happy Birthday Slack Bot
